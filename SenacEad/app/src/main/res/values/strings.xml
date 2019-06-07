@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">SenacEad</string>
+    <string name="conhecimento">conhecimento</string>
+    <string name="ritmo">No Seu Ritmo</string>
+    <string name="imgsplash">Imagem de fundo da tela de splash</string>
+    <string name="tituloMA">Cursos técnicos EAD Senac. Inscreva-Se Já</string>
+    <string name="SubtituloMA">Se Você pode fazer um curso técnico onde e quando quiser, por que não agora </string>
+    <string name="acessMA">Acesse</string>
+    <string name="linkMA">www.eadsenac.com.br/cursos-tecnicos</string>
+    <string name="parasaberMA">Para saber mais faça sua inscrição.</string>
+    <string name="tituloCT">Não Espere, Procure O Senac Mais Perto De Você. São Diversos Polos Em Todo Estado De São Paulo.</string>
+    <string name="cursosCT">Cursos Técnicos Em:</string>
+    <string name="administracao"> • Administração</string>
+    <string name="RH"> • Recursos Humanos</string>
+    <string name="Design"> • Design</string>
+    <string name="Mambiente"> • Meio Ambiente</string>
+    <string name="Logistica"> • Logistica </string>
+    <string name="JogosDigitais"> • Jogos Digitais</string>
+    <string name="transacoesimob"> • Transações Imobiliarias</string>
+    <string name="nome">Nome</string>
+    <string name="email">E-Mail</string>
+    <string name="telefone">Telefone</string>
+    <string name="Logosenac">Logo Senac</string>
+    <string name="Avatar">Avatar</string>
+
+
+</resources>
